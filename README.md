@@ -34,7 +34,7 @@ You can install the layout temporarily to try it out by running that command but
 
 ![layout made in Krita](https://github.com/Dio9sys/shavianchorder/blob/main/CCShavian.png)
 
-(edited version of the CharaChorder layout chart found [here](https://docs.charachorder.com/CharaChorder%20One.html#learning-the-layout)
+(edited version of the CharaChorder layout chart found [here](https://docs.charachorder.com/CharaChorder%20One.html#learning-the-layout))
 
 # FAQs
 
