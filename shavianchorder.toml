@@ -5,8 +5,8 @@ locale      = "us"             # locale/language id
 variant     = "char"         # layout variant id
 author      = "Dio9sys"         # author name
 description = "Shavian layout for the CharaChorder One"
-url         = "https://OneDeadKey.github.com/kalamine"
-version     = "0.0.1"
+url         = "https://github.com/Dio9sys/shavianchorder"
+version     = "1.0.0"
 geometry    = "ISO"
 
 base = '''
