@@ -30,6 +30,8 @@ sudo env "PATH=$PATH" xkalamine install shavianchorder.toml
 
 You can install the layout temporarily to try it out by running that command but without `sudo env "PATH=$PATH"` on the front.
 
+After installing, you can either enable it in the terminal with `setxkbmap us -variant char` or select "Shavian Keyboard for Charachorder" under "English (United States)" in your GUI keyboard layout selector of choice.
+
 # Layout
 
 ![layout made in Krita](https://github.com/Dio9sys/shavianchorder/blob/main/CCShavian.png)
